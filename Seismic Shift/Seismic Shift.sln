@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seismic Shift.CSharp.Plugins", "Seismic Shift.CSharp.Plugins.csproj", "{680755D8-A75D-5165-D56D-CF1C37E9AB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seismic Shift.CSharp", "Seismic Shift.CSharp.csproj", "{A2C3F718-B5A3-3D8A-20AC-E7EE1CEB987C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seismic Shift.CSharp.Editor.Plugins", "Seismic Shift.CSharp.Editor.Plugins.csproj", "{97FC6370-FCF7-EFA9-2487-741E6384708D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seismic Shift.CSharp.Editor", "Seismic Shift.CSharp.Editor.csproj", "{10D2D17D-8451-E5E1-9123-135DFC1964F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680755D8-A75D-5165-D56D-CF1C37E9AB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680755D8-A75D-5165-D56D-CF1C37E9AB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680755D8-A75D-5165-D56D-CF1C37E9AB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680755D8-A75D-5165-D56D-CF1C37E9AB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C3F718-B5A3-3D8A-20AC-E7EE1CEB987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C3F718-B5A3-3D8A-20AC-E7EE1CEB987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C3F718-B5A3-3D8A-20AC-E7EE1CEB987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C3F718-B5A3-3D8A-20AC-E7EE1CEB987C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FC6370-FCF7-EFA9-2487-741E6384708D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FC6370-FCF7-EFA9-2487-741E6384708D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FC6370-FCF7-EFA9-2487-741E6384708D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FC6370-FCF7-EFA9-2487-741E6384708D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D2D17D-8451-E5E1-9123-135DFC1964F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D2D17D-8451-E5E1-9123-135DFC1964F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D2D17D-8451-E5E1-9123-135DFC1964F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D2D17D-8451-E5E1-9123-135DFC1964F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

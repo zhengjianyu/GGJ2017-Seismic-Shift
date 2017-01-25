@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6dc54f3b31adc694f88abfac4a31169e
+labels:
+- ValueController
+- dynamic
+- constant
+- timer
+- clock
+- watch
+- healthbar
+- castbar
+- buff
+- debuff
+- stack
+- counter
+- shield
+- battery
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
